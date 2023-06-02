@@ -1,0 +1,17 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.estudios {
+  text-align: center;
+}
+
+li {
+  text-align: center;
+  list-style: none;
+}
+
+.contacto {
+  text-align: center;
+  color: white;
+}
